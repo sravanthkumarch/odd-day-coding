@@ -9,4 +9,4 @@ Each solution includes:
 - Time & space complexity
 - Clean, readable code
 
-Will be updated in batches at times
+Will be updated in batches at times and python is used as the primary language for problem solving
